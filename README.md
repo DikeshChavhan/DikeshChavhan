@@ -33,11 +33,11 @@
 
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/dikeshchavhan18)
+- [LinkedIn](https://www.linkedin.com/in/dikeshchavhan18/)
 
 
 ### 👀 Want to know more?
-Check out my pinned repositories above or reach out via [LinkedIn](www.linkedin.com/in/dikeshchavhan18).  
+Check out my pinned repositories above or reach out via [LinkedIn](https://www.linkedin.com/in/dikeshchavhan18/).  
 Let’s build something **awesome** together! 💼
 
 
