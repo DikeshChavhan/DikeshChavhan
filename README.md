@@ -1,5 +1,3 @@
-# Hi I'm Dikesh Chavhan 👋
-
 # Turning data into decisions with Python, SQL & Machine Learning
 
 <p>
@@ -25,6 +23,10 @@ Currently looking for **Data Scientist, Data Analyst, ML Engineer, Power BI Deve
 ---
 
 ## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,pandas,numpy,sklearn,tensorflow,opencv,git,github,html,css,vscode&perline=12" alt="Tech icons"/>
+</p>
 
 **Machine Learning & AI**
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat)
@@ -64,6 +66,10 @@ Currently looking for **Data Scientist, Data Analyst, ML Engineer, Power BI Deve
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DikeshChavhan&show_icons=true&hide_border=true" alt="GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikeshChavhan&layout=compact&hide_border=true" alt="Top languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DikeshChavhan&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
