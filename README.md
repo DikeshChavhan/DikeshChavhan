@@ -1,43 +1,91 @@
-# Hi I'm Dikesh Chavhan 👋
+# Turning data into decisions with Python, SQL & Machine Learning
 
-🎓 Final Year ENTC Student | 📊 Aspiring Data Scientist  
-🚀 Currently learning Data Science, Machine Learning & Python  
-💡 Passionate about turning data into actionable insights
+<img src="https://img.shields.io/badge/Data_Scientist_%2F_Data_Analyst-2da44e?style=flat" alt="Role"/>
 
-## 🛠️ Tech Stack & Tools
-
-| Languages      | Tools & IDEs     | Data & ML |
-|----------------|------------------|-----------|
-| 🐍 Python       | 🧪 Jupyter Notebook | 📊 Pandas |
-| 🧮 NumPy       | 💻 VS Code          | 📈 Matplotlib |
-| 📚 Scikit-learn | 🌐 Git & GitHub     | 🖼️ Seaborn |
-| 🔎 SQL         | ☁️ Google Colab     | 📊 Tableau |
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dikesh_chavhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dikeshchavhan123@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dikesh_Chavhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dikesh_Chavhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikesh_Chavhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+B.E. graduate (Savitribai Phule Pune University, 2026) · Pune, India · Open to full-time roles
+Building end-to-end ML pipelines: data cleaning, EDA, modeling, evaluation, and deployment as Streamlit apps.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dikesh_Chavhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
 
+**Machine Learning & AI**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5E35B1?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E24AA?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+**Programming & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Data Analysis & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/dikeshchavhan18/)
+**Web & Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+---
 
-### 👀 Want to know more?
-Check out my pinned repositories above or reach out via [LinkedIn](https://www.linkedin.com/in/dikeshchavhan18/).  
-Let’s build something **awesome** together! 💼
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DikeshChavhan&show_icons=true&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikeshChavhan&layout=compact&hide_border=true" alt="Top languages" height="170"/>
+</p>
 
+---
+
+## Featured Projects
+
+| Repo | What it does | Stack |
+|------|--------------|-------|
+| [heart-disease-prediction-ml](https://github.com/DikeshChavhan/heart-disease-prediction-ml) | HeartCheck: predicts 5-class heart disease severity on the UCI dataset (297 patients) with 66.7% accuracy (Logistic Regression); Streamlit app with a multilingual health assistant (English, Hindi, Marathi, Tamil) | Python, Scikit-learn, Streamlit |
+| [Auto-Mpg-Prediction](https://github.com/DikeshChavhan/Auto-Mpg-Prediction) | Predicts vehicle fuel efficiency (MPG to KM/L) on 398 records; XGBoost reached R² 0.86 and RMSE 3.00 vs 0.83 for linear baselines; app with fuel-cost calculator and car comparison | Python, XGBoost, Streamlit |
+| [BlinkIT-Grocery-Sales-Dashboard](https://github.com/DikeshChavhan/BlinkIT-Grocery-Sales-Dashboard) | Interactive dashboard analyzing sales by product category, outlet type, size, and location tier; KPIs include Total Sales, Average Sales, Average Rating, and Number of Items | Power BI, Power Query, DAX, Excel |
+
+---
+
+## Experience
+
+```text
+Data Science Intern    CODTECH IT Solutions Pvt. Ltd.    Dec 2024 - Jan 2025
+  - Data preprocessing, cleaning, and EDA with Python, Pandas, NumPy, and SQL
+  - Built and evaluated ML models with Scikit-learn, XGBoost, and TensorFlow
+```
+
+---
+
+## Education & Certifications
+
+- **B.E.**, Savitribai Phule Pune University (2022-2026), CGPA 7.0 / 10
+- Data Science with Generative AI (PW Skills) · Enterprise Data Science Workflows (IBM, Apr 2025) · Oracle AI & Data Science · Deloitte Data Science Simulation
+
+## Achievements
+
+- 2nd Rank, Project Competition, NEXAI at ZCOER
+- 2nd Prize, Code Studio Python Competition, Techtonic 2024
+- Vice-Chair, IEEE SIT Student Branch (2024-25)
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikeshchavhan18/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dikeshchavhan123@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=DikeshChavhan&style=flat)
