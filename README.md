@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dikesh+Chavhan;%5BDK%5D+%F0%9F%91%8B)](https://git.io/typing-svg)
 # Turning data into decisions with Python, SQL & Machine Learning
 
 <p>
