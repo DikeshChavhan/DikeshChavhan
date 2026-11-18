@@ -1,9 +1,24 @@
 # Turning data into decisions with Python, SQL & Machine Learning
 
-<img src="https://img.shields.io/badge/Data_Scientist_%2F_Data_Analyst-2da44e?style=flat" alt="Role"/>
+<p>
+  <img src="https://img.shields.io/badge/Data_Scientist-2da44e?style=flat" alt="Data Scientist"/>
+  <img src="https://img.shields.io/badge/Data_Analyst-0A66C2?style=flat" alt="Data Analyst"/>
+  <img src="https://img.shields.io/badge/Machine_Learning_Engineer-8E24AA?style=flat" alt="Machine Learning Engineer"/>
+  <img src="https://img.shields.io/badge/Power_BI_Developer-c9a400?style=flat" alt="Power BI Developer"/>
+  <img src="https://img.shields.io/badge/SQL_Developer-4479A1?style=flat" alt="SQL Developer"/>
+  <img src="https://img.shields.io/badge/Business_Analyst-E97627?style=flat" alt="Business Analyst"/>
+</p>
 
-B.E. graduate (Savitribai Phule Pune University, 2026) · Pune, India · Open to full-time roles
-Building end-to-end ML pipelines: data cleaning, EDA, modeling, evaluation, and deployment as Streamlit apps.
+**B.E. (ENTC) graduate, Savitribai Phule Pune University (2026)** · Pune, India · **Open to full-time roles**
+
+Data professional who turns raw data into **predictions, dashboards and business insights**. I build end-to-end pipelines covering **data cleaning, EDA, feature engineering, model training, evaluation and deployment** using **Python, SQL, Scikit-learn, XGBoost and TensorFlow**.
+
+- **Machine Learning:** classification and regression models with measurable results (R² 0.86, 66.7% on a 5-class task), shipped as interactive **Streamlit** apps
+- **Business Intelligence:** KPI-driven dashboards with **Power BI, DAX, Power Query and Tableau** that turn sales data into decisions
+- **Data Analysis:** **SQL, Pandas, NumPy, Excel and statistics** for cleaning, outlier treatment and insight generation
+- **Generative AI:** completed **Data Science with Generative AI** (PW Skills) and built a multilingual virtual health assistant in English, Hindi, Marathi and Tamil
+
+Currently looking for **Data Scientist, Data Analyst, ML Engineer, Power BI Developer, SQL Developer and Business Analyst** opportunities.
 
 ---
 
