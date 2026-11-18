@@ -1,4 +1,4 @@
-# **Hi I'm Dikesh Chavhan **👋
+# Hi I'm Dikesh Chavhan 👋
 
 # Turning data into decisions with Python, SQL & Machine Learning
 
